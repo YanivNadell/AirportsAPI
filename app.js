@@ -48,6 +48,6 @@ app.get("/:icao", (req, res) => {
 
 //------------------------------------------------------------------------
 
-var listener = app.listen(9090, function () {
+var listener = app.listen(8080, function () {
     console.log("Listening on port " + listener.address().port);
 });
