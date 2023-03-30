@@ -1,0 +1,4 @@
+API is online!
+Type "/" after the URL and then enter the ICAO code to get it's data.
+
+Credits: Yaniv Nadell - LivToAir
